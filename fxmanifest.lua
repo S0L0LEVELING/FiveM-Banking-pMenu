@@ -9,6 +9,7 @@ server_scripts{
 }
 
 client_script {
+  '@MenuUi/cl_menu.lua',
   "client.lua",
   "config.lua"
 }
